@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @RodriguesYuri
-- 👀 I’m interested in games
-- 🌱 I’m currently learning Data Science
+Seja bem-vindo(a)!
 
+Sou Yuri Alexandre Barbosa Rodrigues.
 
-<!---
-RodriguesYuri/RodriguesYuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Atualmente estudando 6º semestre em [Ciência de Dados na Fatec de Cotia](https://fateccotia.cps.sp.gov.br/ciencia-de-dados/)
+
+Conhecimentos em:
+- Python (coleta, exploração, machine learning)
+- SQL
+- Power BI
+
+Meus Projetos:
+
+- Regressão e Previsão Cancer de Mama - Em breve
+- Dashboard COMEX FATEC COTIA - Em breve
