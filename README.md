@@ -1,7 +1,7 @@
 # 👋 Seja bem-vindo(a)!
 
 ## 👤 Sobre mim
-Olá! Sou Yuri Alexandre Barbosa Rodrigues, formado em [Ciência de Dados na Fatec de Cotia](https://fateccotia.cps.sp.gov.br/ciencia-de-dados/).
+Olá! Sou **Yuri Alexandre Barbosa Rodrigues**, formado em [Ciência de Dados na Fatec de Cotia](https://fateccotia.cps.sp.gov.br/ciencia-de-dados/).
 Tenho experiência em análise de dados, visualização e desenvolvimento de soluções inovadoras.
 
 
@@ -32,7 +32,7 @@ Sou apaixonado por dados, tecnologia e pesquisa, e estou sempre em busca de apre
 
 # 👋 Welcome!
 ## 👤 About Me
-Hi! I'm Yuri Alexandre Barbosa Rodrigues, a graduate in [Data Science at Fatec de Cotia](https://fateccotia.cps.sp.gov.br/ciencia-de-dados/).
+Hi! I'm **Yuri Alexandre Barbosa Rodrigues**, a graduate in [Data Science at Fatec de Cotia](https://fateccotia.cps.sp.gov.br/ciencia-de-dados/).
 I have experience in data analysis, visualization, and developing innovative solutions.
 
 I am passionate about data, technology, and research, and I am always seeking to learn more and grow professionally. My main interests include working in the banking and insurance sectors or research organizations like IBGE, using data to create a meaningful impact on society.
