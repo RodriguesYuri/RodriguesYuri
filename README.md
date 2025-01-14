@@ -18,7 +18,7 @@ Sou apaixonado por dados, tecnologia e pesquisa, e estou sempre em busca de apre
 - **[Dashboard COMEX FATEC COTIA](https://github.com/RodriguesYuri/Dashboard-TD)** - Projeto do meu TCC focado no acompanhamento de alunos e egressos do curso de Comércio Exterior.
 
 ## 🎯 Objetivos Profissionais
-- Desenvolver soluções voltadas para o setor bancário, segurador e organizações de pesquisa.
+- Desenvolver soluções voltadas para o setor bancário, seguradoras e organizações de pesquisa.
 - Contribuir para projetos que unam dados e impacto social.
 - Expandir meu portfólio com projetos relevantes que demonstrem minhas habilidades técnicas e visão analítica.
 
