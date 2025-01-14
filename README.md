@@ -2,7 +2,7 @@ Seja bem-vindo(a)!
 
 Sou Yuri Alexandre Barbosa Rodrigues.
 
-Atualmente estudando 6º semestre em [Ciência de Dados na Fatec de Cotia](https://fateccotia.cps.sp.gov.br/ciencia-de-dados/)
+Formado em [Ciência de Dados na Fatec de Cotia](https://fateccotia.cps.sp.gov.br/ciencia-de-dados/)
 
 Conhecimentos em:
 - Python (coleta, exploração, machine learning)
@@ -12,4 +12,4 @@ Conhecimentos em:
 Meus Projetos:
 
 - Regressão e Previsão Cancer de Mama - Em breve
-- Dashboard COMEX FATEC COTIA - Em breve
+- [Dashboard COMEX FATEC COTIA](https://github.com/RodriguesYuri/Dashboard-TD)
