@@ -15,8 +15,10 @@ Sou apaixonado por dados, tecnologia e pesquisa, e estou sempre em busca de apre
 ## 📂 Meus Projetos
 
 - **[Dashboard COMEX FATEC COTIA](https://github.com/RodriguesYuri/Dashboard-TD)** - Projeto do meu TCC focado no acompanhamento de alunos e egressos do curso de Comércio Exterior.
-- **[Lab 01-A](https://github.com/RodriguesYuri/Lab01_PART1_NUSP)** - Primeiro projeto desenvolvido na diciplina de Fundamentos de Engenharia de dados.
-- **[Lab 01-B](https://github.com/RodriguesYuri/Lab01_PART2_NUSP)** - Segundo projeto desenvolvido na diciplina de Fundamentos de Engenharia de dados, é uma continuação direta do Lab 01-A.
+- **[Lab 01-A](https://github.com/RodriguesYuri/Lab01_PART1_NUSP)** - Primeiro projeto desenvolvido na diciplina de Fundamentos de Engenharia de Dados.
+- **[Lab 01-B](https://github.com/RodriguesYuri/Lab01_PART2_NUSP)** - Segundo projeto desenvolvido na diciplina de Fundamentos de Engenharia de Dados, é uma continuação direta do Lab 01-A.
+- **[Lab 02](https://github.com/RodriguesYuri/Lab02_NUSP)** - Terceiro projeto desenvolvido na diciplida de Fundamentos de Engenharia de Dados, continuação dos Labs 01.
+- **[Santander Cycles ELT Pipeline (TfL)](https://github.com/lucasladeira1999/Projeto_Final_eEDB-019_2026-1_Grupo5)** - Projeto final da disciplina de Fundamentos de Engenharia de Dados.
 
 ## 🎯 Objetivos Profissionais
 - Desenvolver soluções voltadas para o setor bancário, seguradoras e organizações de pesquisa.
@@ -46,10 +48,14 @@ I am passionate about data, technology, and research, and I am always seeking to
 - **[COMEX FATEC COTIA Dashboard](https://github.com/RodriguesYuri/Dashboard-TD):** My graduation project focused on monitoring students and graduates from the Foreign Trade program.
 - **[Lab 01-A](https://github.com/RodriguesYuri/Lab01_PART1_NUSP)** - This is the first project developed for the Fundamentals of Data Engineering course.
 - **[Lab 01-B](https://github.com/RodriguesYuri/Lab01_PART2_NUSP)** - This is the second project developed for the Fundamentals of Data Engineering course, which is a continuation of Lab 01-A.
+- **[Lab 02](https://github.com/RodriguesYuri/Lab02_NUSP)** - This is the third project developed for the Fundamentals of Data Engineering course, which is a continuation of Labs 01.
+- **[Santander Cycles ELT Pipeline (TfL)](https://github.com/lucasladeira1999/Projeto_Final_eEDB-019_2026-1_Grupo5)** - This is the final project developed for the Fundamentals of Data Engineering course.
+- 
 ## 🎯 Career Goals
 - Develop solutions for the banking and insurance sectors, as well as research organizations.
 - Contribute to projects that combine data and social impact.
 - Expand my portfolio with relevant projects that highlight my technical skills and analytical vision.
+- 
 ## 📬 Contact
 **E-mail:** [rodrigues.yuri.contact@gmail.com](rodrigues.yuri.contact@gmail.com)
 
