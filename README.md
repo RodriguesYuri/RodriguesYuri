@@ -26,7 +26,7 @@ Sou apaixonado por dados, tecnologia e pesquisa, e estou sempre em busca de apre
 - Expandir meu portfólio com projetos relevantes que demonstrem minhas habilidades técnicas e visão analítica.
 
 ## 📬 Contato
-**E-mail:** [rodrigues.yuri.contact@gmail.com](rodrigues.yuri.contact@gmail.com)
+**E-mail:** [rodrigues.yuri.contact@gmail.com](mailto:rodrigues.yuri.contact@gmail.com)
 
 
 **LinkedIn:** [Yuri Alexandre Barbosa Rodrigues](https://www.linkedin.com/in/rodriguesyuri/)
@@ -57,7 +57,7 @@ I am passionate about data, technology, and research, and I am always seeking to
 - Expand my portfolio with relevant projects that highlight my technical skills and analytical vision.
 - 
 ## 📬 Contact
-**E-mail:** [rodrigues.yuri.contact@gmail.com](rodrigues.yuri.contact@gmail.com)
+**E-mail:** [rodrigues.yuri.contact@gmail.com](mailto:rodrigues.yuri.contact@gmail.com)
 
 
 **LinkedIn:** [Yuri Alexandre Barbosa Rodrigues](https://www.linkedin.com/in/rodriguesyuri/)
