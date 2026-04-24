@@ -50,12 +50,12 @@ I am passionate about data, technology, and research, and I am always seeking to
 - **[Lab 01-B](https://github.com/RodriguesYuri/Lab01_PART2_NUSP)** - This is the second project developed for the Fundamentals of Data Engineering course, which is a continuation of Lab 01-A.
 - **[Lab 02](https://github.com/RodriguesYuri/Lab02_NUSP)** - This is the third project developed for the Fundamentals of Data Engineering course, which is a continuation of Labs 01.
 - **[Santander Cycles ELT Pipeline (TfL)](https://github.com/lucasladeira1999/Projeto_Final_eEDB-019_2026-1_Grupo5)** - This is the final project developed for the Fundamentals of Data Engineering course.
-- 
+
 ## 🎯 Career Goals
 - Develop solutions for the banking and insurance sectors, as well as research organizations.
 - Contribute to projects that combine data and social impact.
 - Expand my portfolio with relevant projects that highlight my technical skills and analytical vision.
-- 
+
 ## 📬 Contact
 **E-mail:** [rodrigues.yuri.contact@gmail.com](mailto:rodrigues.yuri.contact@gmail.com)
 
