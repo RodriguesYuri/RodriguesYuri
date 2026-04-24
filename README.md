@@ -29,7 +29,7 @@ Sou apaixonado por dados, tecnologia e pesquisa, e estou sempre em busca de apre
 **E-mail:** [rodrigues.yuri.contact@gmail.com](rodrigues.yuri.contact@gmail.com)
 
 
-**LinkedIn:** [Yuri Alexandre Barbosa Rodrigues](www.linkedin.com/in/rodriguesyuri)
+**LinkedIn:** [Yuri Alexandre Barbosa Rodrigues](https://www.linkedin.com/in/rodriguesyuri/)
 
 ---
 
@@ -60,4 +60,4 @@ I am passionate about data, technology, and research, and I am always seeking to
 **E-mail:** [rodrigues.yuri.contact@gmail.com](rodrigues.yuri.contact@gmail.com)
 
 
-**LinkedIn:** [Yuri Alexandre Barbosa Rodrigues](www.linkedin.com/in/rodriguesyuri)
+**LinkedIn:** [Yuri Alexandre Barbosa Rodrigues](https://www.linkedin.com/in/rodriguesyuri/)
